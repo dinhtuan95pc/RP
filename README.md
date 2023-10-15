@@ -6,3 +6,4 @@ Add API documentation
 Add configuration options
 Add database setup guide
 Add environment variables info
+Add error handling section
