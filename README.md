@@ -8,3 +8,4 @@ Add database setup guide
 Add environment variables info
 Add error handling section
 Add logging setup instructions
+Add testing guide
