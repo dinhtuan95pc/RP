@@ -11,3 +11,4 @@ Add logging setup instructions
 Add testing guide
 Add deployment steps
 Add contribution guidelines
+Add code of conduct
