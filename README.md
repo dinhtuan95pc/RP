@@ -12,3 +12,4 @@ Add testing guide
 Add deployment steps
 Add contribution guidelines
 Add code of conduct
+Add FAQ section
