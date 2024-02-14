@@ -14,3 +14,4 @@ Add contribution guidelines
 Add code of conduct
 Add FAQ section
 Add roadmap
+Add known issues
