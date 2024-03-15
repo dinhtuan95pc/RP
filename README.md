@@ -16,3 +16,4 @@ Add FAQ section
 Add roadmap
 Add known issues
 Add security considerations
+Add dependencies list
