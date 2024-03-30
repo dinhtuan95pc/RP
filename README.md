@@ -17,3 +17,4 @@ Add roadmap
 Add known issues
 Add security considerations
 Add dependencies list
+Add license information
