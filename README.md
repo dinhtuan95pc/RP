@@ -19,3 +19,4 @@ Add security considerations
 Add dependencies list
 Add license information
 Add changelog template
+Add build instructions
