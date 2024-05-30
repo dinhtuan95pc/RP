@@ -21,3 +21,4 @@ Add license information
 Add changelog template
 Add build instructions
 Add troubleshooting tips
+Add monitoring guidelines
