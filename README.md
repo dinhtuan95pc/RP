@@ -23,3 +23,4 @@ Add build instructions
 Add troubleshooting tips
 Add monitoring guidelines
 Add performance optimization notes
+Add internationalization support
