@@ -27,3 +27,4 @@ Add internationalization support
 Add API versioning info
 Add backup and restore procedures
 Add support contact details
+Add acknowledgements
